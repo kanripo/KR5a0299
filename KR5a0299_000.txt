@@ -1,7 +1,8 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-28 23:44:32.277272
+# -*- mode: mandoku-view -*-
 #+TITLE: 通占大象曆星經
-#+PROPERTY: DZID  DZ0287
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，5—4 二卷 洞真部眾術類
+#+DATE: 2015-08-28 23:44:32
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
+#+PROPERTY: WITNESS ZTDZ
+#+PROPERTY: JUAN 0
+<md:KR5a0299_HFL_001-001a>¶<pb:KR5a0299_SJB_001-050004c>
+
